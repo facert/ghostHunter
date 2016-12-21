@@ -158,7 +158,7 @@
         },
 
         format          : function (t, d) {
-            return t.replace(/{#([^{}]*)#}/g, function (a, b) {
+            return t.replace(/{{([^{}]*)}}/g, function (a, b) {
                 var r = d[b];
                 return typeof r === 'string' || typeof r === 'number' ? r : a;
             });
