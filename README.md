@@ -1,3 +1,6 @@
+去掉 lunr.js 分词插件，单纯查找搜索， 见 blog https://facert.github.io/2016/12/21/ghost-%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%96%87%E6%90%9C%E7%B4%A2%E6%8F%92%E4%BB%B6/
+
+
 ![Version](https://img.shields.io/badge/Version-0.3.5-blue.svg)
 ![MinGhostVersion](https://img.shields.io/badge/Min%20Ghost%20v.-%3E%3D%200.7.x-red.svg)
 
